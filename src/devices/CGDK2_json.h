@@ -17,7 +17,7 @@ const char* _CGDK2_json_STOCK = "{\"brand\":\"Qingping\",\"model\":\"TH Lite\",\
          "decoder":["value_from_hex_data", "servicedata", 24, 4, true, false],
          "post_proc":["/", 10]
       },
-      "battery":{
+      "batt":{
          "decoder":["value_from_hex_data", "servicedata", 32, 2, true, false]
       },
       "mac":{
